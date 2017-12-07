@@ -1,1 +1,10 @@
 # UnsatOedometer
+This project presents the design for a multifunction oedometer cell, that in addition to convention incremental loading, is capable of:
+- constant rate of loading (CRL), constant rate of strain (CRS) or controlled gradient (CG) 
+- suction control using the vapour equilibrium technique
+- suction control using the axis-translation technique with a high air-entry ceramic disc included in thr base pedestal
+
+The design is intended to be moduluar, so that with some minor modifications (i.e. different pedestal and cell wall), most parts can be reused as a triaxial apparatus. 
+
+
+![Alt text](UnsatOed_v1.png "UnsatOed_v1.png")
